@@ -34,4 +34,20 @@ Deleting a specified object may/may not delete duplicate objects which arent spe
 For example, if the app allows adding two duplicate objects with the same name, the name/id of one of the duplicates might have a counter attached to it. In this case, this might cause issues when editing/deleting these objects
 
 
+## Date Inputs
+- Check if leap years and invalid dates are handled properly.
+- For certain products, entering past dates may not make sense to the functionality
+- Check of past dates cause errors
+
+Invalid Dates:  
+`2021-02-29, 2021-02-30, 2021-11-31, 2021-11-32`
+
+Past Dates:  
+`1999-02-27, 0000-02-09`
+
+Similar principles can be applied to time.
+
+
+
+
 
