@@ -16,6 +16,7 @@ Examples:
 
 ## Duplicate Inputs
 Duplicate inputs may/may not be allowed depennding on the UG. Check if behaviour is as mentioned and see if any bugs are found when duplucate instances are allowed.
-- Duplicate Instances, tags, etc
-Examples:
+- Duplicate Instances, tags, etc.
+
+Examples:  
 `t/manytag1 t/manytag1 t/manytag1 t/manytag1`
