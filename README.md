@@ -47,6 +47,12 @@ Past Dates:
 
 Similar principles can be applied to time.
 
+## DG Possible Bugs:
+- Broken Links (DevOPS code coverage link, Setting up user Guide)
+- UML Diagram Errors (Missing Labels/arrows, wrong arrow directions, incomplete diagrams)
+- NFR have errors
+- Grammatical/Spelling Errors
+
 
 
 
